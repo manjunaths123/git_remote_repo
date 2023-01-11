@@ -6,3 +6,4 @@ line 2 from local to remote
 line 3 from local
 Hi I am editing in remote repo c1
 Hello now changes made in local
+Changes to test Fetch
