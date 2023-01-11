@@ -7,3 +7,4 @@ line 3 from local
 Hi I am editing in remote repo c1
 Hello now changes made in local
 Changes to test Fetch
+changes to test pull
